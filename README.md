@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**Chris-B-Kreme/Chris-B-Kreme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# The Story of **ME**
+## Education
+### Started out at Fairleigh Dickinson University with plans on getting a history degree and a teaching certification
+### Later dropped the education part and just got a BA in history
+### Currently working on an MLIS degree at Drexel
+## Work
+### Been working at Home Depot since 2016
+## Interests
+### Video Games
+### Reading
+### History
